@@ -1,7 +1,7 @@
 # <div align="center">Hi 👋, I'm Pawan Kumar V</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vpawankumar202-crypto&label=Profile%20views&color=0e75b6&style=flat" alt="vpawankumar202-crypto" />
+  <img src="https://komarev.com/ghpvc/?username=vpawankumar2025-crypto&label=Profile%20views&color=0e75b6&style=flat" alt="vpawankumar2025-crypto" />
 </div>
 
 <div align="center">
@@ -51,20 +51,20 @@ Hi, I'm **Pawan Kumar V**, a passionate **Cyber Security Student (2nd Year)** wh
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pawan%20Kumar%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawankumarv04)
-[![GitHub](https://img.shields.io/badge/GitHub-vpawankumar202--crypto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vpawankumar202-crypto)
-[![GitHub followers](https://img.shields.io/github/followers/vpawankumar202-crypto?style=for-the-badge&logo=github&label=Followers)](https://github.com/vpawankumar202-crypto?tab=followers)
+[![GitHub](https://img.shields.io/badge/GitHub-vpawankumar2025--crypto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vpawankumar2025-crypto)
+[![GitHub followers](https://img.shields.io/github/followers/vpawankumar2025-crypto?style=for-the-badge&logo=github&label=Followers)](https://github.com/vpawankumar2025-crypto?tab=followers)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vpawankumar202-crypto&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vpawankumar202-crypto&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vpawankumar2025-crypto&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vpawankumar2025-crypto&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpawankumar202-crypto&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpawankumar2025-crypto&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 ---
@@ -72,7 +72,7 @@ Hi, I'm **Pawan Kumar V**, a passionate **Cyber Security Student (2nd Year)** wh
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vpawankumar202-crypto&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vpawankumar2025-crypto&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Profile Trophy" />
 </div>
 
 ---
@@ -81,5 +81,5 @@ Hi, I'm **Pawan Kumar V**, a passionate **Cyber Security Student (2nd Year)** wh
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pawankumarv04">LinkedIn</a> •
-  <a href="https://github.com/vpawankumar202-crypto">GitHub</a>
+  <a href="https://github.com/vpawankumar2025-crypto">GitHub</a>
 </div>
