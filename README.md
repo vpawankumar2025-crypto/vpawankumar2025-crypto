@@ -91,12 +91,13 @@ Hi, I'm **Pawan Kumar V**, a passionate **Cyber Security Student (2nd Year)** wh
 
 ---
 
-## 🏆 GitHub Trophies
+## 📌 Current Focus
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vpawankumar2025-crypto&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
-</div>
-
+- Building beginner-friendly cybersecurity and programming projects
+- Learning React, Express.js, MongoDB, and Node.js
+- Improving problem solving, GitHub profile, and project documentation
+- Growing step by step as a Cybersecurity and MERN learner
+- Gaining Full Knowledge related Cybersecurity and Ethical Hacking and become an Purple Hat Hacker
 ---
 
 ## 🤝 Let's Connect
