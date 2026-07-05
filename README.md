@@ -86,8 +86,8 @@ Hi, I'm **Pawan Kumar V**, a passionate **Cyber Security Student (2nd Year)** wh
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vpawankumar2025-crypto&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vpawankumar2025-crypto&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vpawankumar2025-crypto&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vpawankumar2025-crypto&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
 </div>
 
 <br>
