@@ -85,34 +85,19 @@ Hi, I'm **Pawan Kumar V**, a passionate **Cyber Security Student (2nd Year)** wh
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vpawankumar2025-crypto&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vpawankumar2025-crypto&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="GitHub streak" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vpawankumar2025-crypto&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Pawan's GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=vpawankumar2025-crypto&theme=tokyonight&hide_border=true&border_radius=10" alt="Pawan's GitHub Streak" />
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpawankumar2025-crypto&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="Top languages" />
-</div>
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpawankumar2025-crypto&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vpawankumar2025-crypto&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/pawankumarv04">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/vpawankumar2025-crypto">
-    <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+<p align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=vpawankumar2025-crypto&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" alt="GitHub Trophies" />
+</p>
