@@ -86,15 +86,18 @@ Hi, I'm **Pawan Kumar V**, a passionate **Cyber Security Student (2nd Year)** wh
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vpawankumar2025-crypto&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Pawan's GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=vpawankumar2025-crypto&theme=tokyonight&hide_border=true&border_radius=10" alt="Pawan's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vpawankumar2025-crypto&show_icons=true&theme=tokyonight&hide_border=true" alt="Pawan's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpawankumar2025-crypto&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpawankumar2025-crypto&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+
+> Temporarily removed because external trophy images may fail to load on GitHub.
 
 ## 🏆 GitHub Trophies
 
