@@ -85,16 +85,9 @@ Hi, I'm **Pawan Kumar V**, a passionate **Cyber Security Student (2nd Year)** wh
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vpawankumar2025-crypto&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vpawankumar2025-crypto&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpawankumar2025-crypto&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="Top languages" />
-</div>
+- Actively learning and building projects in HTML, CSS, JavaScript, Python, C, C++, and Java
+- Exploring Linux, Kali Linux, Networking, Wireshark, and Nmap
+- Growing step by step in Cybersecurity and MERN Stack development
 
 ---
 
